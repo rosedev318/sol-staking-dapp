@@ -1,5 +1,6 @@
 import styles from "../styles/Home.module.css";
 
+
 export default function StakingData() {
   return (
     <section className={styles.stakingDataContainer}>
